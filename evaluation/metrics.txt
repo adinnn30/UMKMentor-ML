@@ -1,0 +1,5 @@
+Model: TF-IDF + Linear SVM
+
+Accuracy     : 86.19%
+Weighted F1  : 86.27%
+Macro F1     : 69.68%
