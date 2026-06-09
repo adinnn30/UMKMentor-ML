@@ -14,7 +14,7 @@ Model yang digunakan pada tahap deployment adalah **TF-IDF + Linear SVM** karena
 
 ## Dataset
 
-Dataset terdiri dari **67.200 ulasan produk** yang telah melalui proses pembersihan dan preprocessing.
+[Dataset](https://www.kaggle.com/datasets/potatokat/tokopedia-reviews) yang telah melalui proses pembersihan dan preprocessing memiliki **67.200 ulasan produk**.
 
 Kategori yang digunakan:
 
